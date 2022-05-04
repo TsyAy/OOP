@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\CommandPract\CommandPract\bin\Debug\netcoreapp3.1\CommandPract.exe
+C:\Users\1\source\repos\CommandPract\CommandPract\bin\Debug\netcoreapp3.1\CommandPract.deps.json
+C:\Users\1\source\repos\CommandPract\CommandPract\bin\Debug\netcoreapp3.1\CommandPract.runtimeconfig.json
+C:\Users\1\source\repos\CommandPract\CommandPract\bin\Debug\netcoreapp3.1\CommandPract.runtimeconfig.dev.json
+C:\Users\1\source\repos\CommandPract\CommandPract\bin\Debug\netcoreapp3.1\CommandPract.dll
+C:\Users\1\source\repos\CommandPract\CommandPract\bin\Debug\netcoreapp3.1\CommandPract.pdb
+C:\Users\1\source\repos\CommandPract\CommandPract\obj\Debug\netcoreapp3.1\CommandPract.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CommandPract\CommandPract\obj\Debug\netcoreapp3.1\CommandPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CommandPract\CommandPract\obj\Debug\netcoreapp3.1\CommandPract.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CommandPract\CommandPract\obj\Debug\netcoreapp3.1\CommandPract.AssemblyInfo.cs
+C:\Users\1\source\repos\CommandPract\CommandPract\obj\Debug\netcoreapp3.1\CommandPract.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CommandPract\CommandPract\obj\Debug\netcoreapp3.1\CommandPract.dll
+C:\Users\1\source\repos\CommandPract\CommandPract\obj\Debug\netcoreapp3.1\CommandPract.pdb
+C:\Users\1\source\repos\CommandPract\CommandPract\obj\Debug\netcoreapp3.1\CommandPract.genruntimeconfig.cache
