@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\PrototypePract\PrototypePract\bin\Debug\netcoreapp3.1\PrototypePract.exe
+C:\Users\1\source\repos\PrototypePract\PrototypePract\bin\Debug\netcoreapp3.1\PrototypePract.deps.json
+C:\Users\1\source\repos\PrototypePract\PrototypePract\bin\Debug\netcoreapp3.1\PrototypePract.runtimeconfig.json
+C:\Users\1\source\repos\PrototypePract\PrototypePract\bin\Debug\netcoreapp3.1\PrototypePract.runtimeconfig.dev.json
+C:\Users\1\source\repos\PrototypePract\PrototypePract\bin\Debug\netcoreapp3.1\PrototypePract.dll
+C:\Users\1\source\repos\PrototypePract\PrototypePract\bin\Debug\netcoreapp3.1\PrototypePract.pdb
+C:\Users\1\source\repos\PrototypePract\PrototypePract\obj\Debug\netcoreapp3.1\PrototypePract.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\PrototypePract\PrototypePract\obj\Debug\netcoreapp3.1\PrototypePract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\PrototypePract\PrototypePract\obj\Debug\netcoreapp3.1\PrototypePract.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\PrototypePract\PrototypePract\obj\Debug\netcoreapp3.1\PrototypePract.AssemblyInfo.cs
+C:\Users\1\source\repos\PrototypePract\PrototypePract\obj\Debug\netcoreapp3.1\PrototypePract.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\PrototypePract\PrototypePract\obj\Debug\netcoreapp3.1\PrototypePract.dll
+C:\Users\1\source\repos\PrototypePract\PrototypePract\obj\Debug\netcoreapp3.1\PrototypePract.pdb
+C:\Users\1\source\repos\PrototypePract\PrototypePract\obj\Debug\netcoreapp3.1\PrototypePract.genruntimeconfig.cache
