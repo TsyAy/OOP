@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\StrategyPract\StrategyPract\bin\Debug\netcoreapp3.1\StrategyPract.exe
+C:\Users\1\source\repos\StrategyPract\StrategyPract\bin\Debug\netcoreapp3.1\StrategyPract.deps.json
+C:\Users\1\source\repos\StrategyPract\StrategyPract\bin\Debug\netcoreapp3.1\StrategyPract.runtimeconfig.json
+C:\Users\1\source\repos\StrategyPract\StrategyPract\bin\Debug\netcoreapp3.1\StrategyPract.runtimeconfig.dev.json
+C:\Users\1\source\repos\StrategyPract\StrategyPract\bin\Debug\netcoreapp3.1\StrategyPract.dll
+C:\Users\1\source\repos\StrategyPract\StrategyPract\bin\Debug\netcoreapp3.1\StrategyPract.pdb
+C:\Users\1\source\repos\StrategyPract\StrategyPract\obj\Debug\netcoreapp3.1\StrategyPract.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\StrategyPract\StrategyPract\obj\Debug\netcoreapp3.1\StrategyPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\StrategyPract\StrategyPract\obj\Debug\netcoreapp3.1\StrategyPract.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\StrategyPract\StrategyPract\obj\Debug\netcoreapp3.1\StrategyPract.AssemblyInfo.cs
+C:\Users\1\source\repos\StrategyPract\StrategyPract\obj\Debug\netcoreapp3.1\StrategyPract.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\StrategyPract\StrategyPract\obj\Debug\netcoreapp3.1\StrategyPract.dll
+C:\Users\1\source\repos\StrategyPract\StrategyPract\obj\Debug\netcoreapp3.1\StrategyPract.pdb
+C:\Users\1\source\repos\StrategyPract\StrategyPract\obj\Debug\netcoreapp3.1\StrategyPract.genruntimeconfig.cache
